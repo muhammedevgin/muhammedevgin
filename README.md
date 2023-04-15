@@ -1,8 +1,5 @@
 ### Hi there 👋
-**muhammedevgin/muhammedevgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🌱 I’m currently learning computer architecture and embedded systems and working on.<br>⚡ Loves playing basketball 
+I’m currently learning computer architecture and embedded systems and working on.<br>⚡ Loves playing basketball 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-evgin-82870b181/) 
