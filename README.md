@@ -2,7 +2,7 @@
 
 **Embedded & Computer Systems Engineer | Hardware-Software Co-Design Researcher**
 
-I am an Embedded & Computer Systems Engineer currently working as a Candidate Researcher at TÜBİTAK BİLGEM ILTAREN. I am also pursuing my Master of Science in Computer and Electrical Engineering at Abdullah Gül University, focusing my academic and professional efforts at the intersection of systems architecture, AI optimization, and edge computing.
+I am an Embedded & Computer Systems Engineer. I am also pursuing my Master of Science in Computer and Electrical Engineering at Abdullah Gül University, focusing my academic and professional efforts at the intersection of systems architecture, AI optimization, and edge computing.
 
 ### 🔬 Research & Current Focus
 * **Systems Architecture & Reliability:** Evaluating the reliability of the RISC-V instruction set architecture using simulation frameworks. I am the developer of FIMSIMv2, a simulation framework designed to evaluate RISC-V reliability through fault-injection experiments within the gem5 architecture.
